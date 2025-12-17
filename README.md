@@ -20,24 +20,24 @@ I’m especially motivated by roles where I can mix **development, security, and
 
 ---
 
-## 🧰 Tech I Use
+## Tech I Use
 
-**Languages**
+**Languages**:
 JavaScript · TypeScript · C · C++ · Bash
 
-**Frontend**
+**Frontend**:
 ReactJS · HTML · CSS · NextJS · React Native · TailwindCSS
 
-**DevSecOps / Cloud**
+**DevSecOps / Cloud**:
 Docker · Kubernetes (Minikube) · Terraform · GitHub Actions · Jenkins · Ansible · AWS · CloudWatch 
 
-**Security**
+**Security**:
 Trivy · Gitleaks · SonarCloud · Snyk (basics) · Checkov
 
-**Databases**
+**Databases**:
 MySQL · MongoDB
 
-**Tools & Environment**
+**Tools & Environment**:
 Git · Linux · VS Code
 
 ---
@@ -49,7 +49,7 @@ Git · Linux · VS Code
 
 ---
 
-## 💌 Let’s Connect
+## Let’s Connect
 
 I’m always open to opportunities, collaborations, and cool tech discussions.
 
